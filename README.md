@@ -1,1 +1,1 @@
-# test_project_kopejka
+# English_idiom_sentence_project
