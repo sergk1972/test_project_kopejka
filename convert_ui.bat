@@ -1,1 +1,1 @@
-python.exe pyuic5 C:\PythonLearn\PythonProjectEnglish\mainwindow.ui -o C:\PythonLearn\PythonProjectEnglish\mainwindow.py
+python.exe -m pyuic5 C:\PythonLearn\GitHub_Eng\mainwindow.ui -o C:\PythonLearn\GitHub_Eng\mainwindow.py
